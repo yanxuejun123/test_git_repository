@@ -5,3 +5,4 @@
 localmaster
 localdev
 localdev2
+多人合作工作模式ldev2<->origin/dev
